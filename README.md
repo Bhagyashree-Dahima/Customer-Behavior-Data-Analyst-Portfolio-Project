@@ -17,4 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+Powerbi Dashboard
+<img width="975" height="529" alt="image" src="https://github.com/user-attachments/assets/c8dabe28-364a-4b07-a4c8-6aebda97a5dc" />
+
 
